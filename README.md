@@ -6,8 +6,8 @@
 3. Display Customer Age Bracket to Bike Purchases
 ## Steps Followed in this project
 1. Downloaded Data set
-2. Carefully Cleaned the Data: Using Find and Replace, IF function, Auto Fill; Creating a new column, 
-3. Created some Pivot Tables
+2. Carefully Cleaned the Data: Using Find and Replace, IF function, Auto Fill; Creating a new column
+3. Created Pivot Tables
 4. Used Pivot Tables to Generate Charts
 5. Created an Interactive Dashboard
 ## Various Insights Can be gotten from the Dashboard
