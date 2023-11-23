@@ -1,9 +1,9 @@
 # Bike Sales Project Using Excel
 ## This project was learnt from the youtube channel 'Alex the Analyst'. Here's the link. https://youtu.be/opJgMj1IUrc
 ## Task: Create an Interactive Dashboard showing:
-1. Average Income Per Purchase
-2. Customer commute to Bike Purchases
-3. Customer Age Bracket to Bike Purchases
+1. Show the Average Income of Bike buyers and non bike buyers
+2. Show the Customer commute Distance to Bike Purchases
+3. Display Customer Age Bracket to Bike Purchases
 ## Steps Followed in this project
 1. Downloaded Data set
 2. Carefully Cleaned the Data: Using Find and Replace, IF function, Auto Fill; Creating a new column, 
